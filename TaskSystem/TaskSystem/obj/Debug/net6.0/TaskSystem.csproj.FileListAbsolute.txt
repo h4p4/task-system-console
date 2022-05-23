@@ -1,0 +1,45 @@
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.exe
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.deps.json
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.runtimeconfig.json
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.dll
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.pdb
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.AssemblyReference.cache
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfoInputs.cache
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfo.cs
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.CoreCompileInputs.cache
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.dll
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\refint\TaskSystem.dll
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.pdb
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.genruntimeconfig.cache
+E:\Programming\C#\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\ref\TaskSystem.dll
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.exe
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.deps.json
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.runtimeconfig.json
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.dll
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\ref\TaskSystem.dll
+D:\TaskSystem\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.pdb
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.AssemblyReference.cache
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfoInputs.cache
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfo.cs
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.CoreCompileInputs.cache
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.dll
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\ref\TaskSystem.dll
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.pdb
+D:\TaskSystem\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.genruntimeconfig.cache
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.exe
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.deps.json
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.runtimeconfig.json
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.dll
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\bin\Debug\net6.0\TaskSystem.pdb
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.AssemblyReference.cache
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfoInputs.cache
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.AssemblyInfo.cs
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.csproj.CoreCompileInputs.cache
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.dll
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\refint\TaskSystem.dll
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.pdb
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\TaskSystem.genruntimeconfig.cache
+D:\TaskSystem Versions\TaskSystemConsole\TaskSystem\TaskSystem\obj\Debug\net6.0\ref\TaskSystem.dll
